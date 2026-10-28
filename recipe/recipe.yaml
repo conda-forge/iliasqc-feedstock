@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.1"
+  version: "0.1.2"
   python_min: "3.12"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/i/iliasqc/iliasqc-${{ version }}.tar.gz
-  sha256: 55dabbe2b0fbd930210e88d77795f8c22d6d8e5126f3a5a17f257b262a1e07fb
+  sha256: e3a6e1310868cb4263fbd05dd96d6ac4af0bad4f33e05c8cb67d817845812b4d
 
 build:
   number: 0
